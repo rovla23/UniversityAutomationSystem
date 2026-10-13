@@ -1,0 +1,14 @@
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/bin/Debug/net10.0/lb2
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/bin/Debug/net10.0/lb2.deps.json
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/bin/Debug/net10.0/lb2.runtimeconfig.json
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/bin/Debug/net10.0/lb2.dll
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/bin/Debug/net10.0/lb2.pdb
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.AssemblyInfoInputs.cache
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.AssemblyInfo.cs
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.csproj.CoreCompileInputs.cache
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.dll
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/refint/lb2.dll
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.pdb
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/lb2.genruntimeconfig.cache
+/Users/vladaromanchuk/Desktop/university/Моделювання/lb2/obj/Debug/net10.0/ref/lb2.dll
